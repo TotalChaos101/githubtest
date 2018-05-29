@@ -1,0 +1,73 @@
+
+
+
+  ul {
+  list-style-type: none;
+  margin:  0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #353635; 
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #00A00D;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+   body {
+  background-image: url("http://www.walldevil.com/wallpapers/a79/wallpapers-black-background-backgrounds-wallpaper-desktop-amazing-images-creative-graphics-inspirational.jpg")
+  }
+
+ h1 {
+  color: #00E319;
+  font-size: 40px;
+ }
+
+h1  {
+  color: #00E319;
+  font-size: 40px;
+
+ }
+
+ h2{
+  color: #3E6B77;
+   margin: 5px 40px auto auto;
+ }
+
+ h2 {
+  font-size: 28px;
+
+}
+
+  p{
+    color: #595959;
+    font-size: 20px;
+}
+
+a {
+  color: #595959;
+  text-decoration-line: none;
+}
+
+
+div#info {
+        margin: 10px 40px auto 155px;
+ }
+
+ div#PHP_test {
+  color: #595959;
+ }
+
+ div#heder {
+  text-align: center;
+  font-size: 10px;
+}
+
